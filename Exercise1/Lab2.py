@@ -1,7 +1,10 @@
 print("ET0735 (DevOps for AIoT) - Lab 2 - Introduction to Python")
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9b21d910c0c5ccc5b895155e2179e98ad417bff4
 def display_main_menu():
     print("Main Menu:")
     print("1. Calculate Average")
@@ -33,5 +36,8 @@ def calc_median_temperature():
 
 # Example usage
 display_main_menu()
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 9b21d910c0c5ccc5b895155e2179e98ad417bff4
